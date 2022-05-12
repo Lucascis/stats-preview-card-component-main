@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://lucascis.github.io/stats-preview-card-component-main/](https://lucascis.github.io/stats-preview-card-component-main/)
 
 ## My process
 
